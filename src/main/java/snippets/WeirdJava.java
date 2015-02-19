@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package nl.indenty.snippets;
+package snippets;
 
+import nl.indenty.snippets.*;
 import java.util.Random;
 
 /**
