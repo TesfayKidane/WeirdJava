@@ -5,7 +5,6 @@
  */
 package snippets;
 
-import nl.indenty.snippets.*;
 import java.util.Random;
 
 /**
